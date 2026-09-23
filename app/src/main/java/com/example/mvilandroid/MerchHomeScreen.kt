@@ -44,7 +44,7 @@ fun MerchHomeScreen(
             verticalArrangement = Arrangement.Center
         ) {
             Image(
-                painter = painterResource(id = R.drawable.llavero_gatito_pixel),
+                painter = painterResource(id = R.drawable.icon),
                 contentDescription = "Imagen de bienvenida",
                 contentScale = ContentScale.Crop,
                 modifier = Modifier
