@@ -3,66 +3,66 @@ package com.example.mvilandroid
 val listaProductos = listOf(
     ProductoMerch(
         id = 1,
-        nombre = "Llavero Gatito Pixel",
+        nombre = "Llaver Acrilico Holografico LMK",
         tipo = "Llavero",
         precio = 3.50,
-        descripcion = "Llavero acrílico de gato en estilo pixel art, 5cm.",
+        descripcion = "Llavero acrílico Holografico.",
         imagenRes = R.drawable.llavero_gatito_pixel
     ),
     ProductoMerch(
         id = 2,
-        nombre = "Pegatina Holográfica Luna",
+        nombre = "Llavero acrílico de Tang Sanzhang",
         tipo = "Pegatina",
         precio = 1.75,
-        descripcion = "Pegatina vinilo holográfico resistente al agua.",
+        descripcion = "Stand Acrilico Holografico.",
         imagenRes = R.drawable.pegatina_holografica_luna
     ),
     ProductoMerch(
         id = 3,
-        nombre = "Llavero Astronauta",
-        tipo = "Llavero",
+        nombre = "Stand de Lmk MK x Tang",
+        tipo = "Stand",
         precio = 4.20,
-        descripcion = "Llavero de goma con diseño de astronauta flotante.",
+        descripcion = "Stand Acrilico Holografico.",
         imagenRes = R.drawable.llavero_astronauta
     ),
     ProductoMerch(
         id = 4,
-        nombre = "Pegatina Set Frutas",
-        tipo = "Pegatina",
+        nombre = "Llavero Sir Lancelot",
+        tipo = "Llavero",
         precio = 2.00,
-        descripcion = "Set de 5 pegatinas de frutas kawaii, mate.",
+        descripcion = "Llavero de acrilico con diseño de Sir Lancelot-Shadow.",
         imagenRes = R.drawable.pegatina_set_frutas
     ),
     ProductoMerch(
         id = 5,
-        nombre = "Llavero Iniciales Metal",
-        tipo = "Llavero",
+        nombre = "Pegatina brillante Novio",
+        tipo = "Pegatina",
         precio = 5.00,
-        descripcion = "Llavero personalizado en metal con inicial grabada.",
+        descripcion = "Pegatina brillante de estilo neón años 80.",
         imagenRes = R.drawable.llavero_iniciales_metal
     ),
     ProductoMerch(
         id = 6,
-        nombre = "Pegatina Neón Retro",
-        tipo = "Pegatina",
+        nombre = "Bolsita Swerve Tranformes",
+        tipo = "Bolsita",
         precio = 1.50,
         descripcion = "Pegatina brillante de estilo neón años 80.",
         imagenRes = R.drawable.pegatina_neon_retro
     ),
     ProductoMerch(
         id = 7,
-        nombre = "Llavero Planta Suculenta",
-        tipo = "Llavero",
+        nombre = "Llavero Circular Transformes Getaway",
+        tipo = "Pines",
         precio = 3.90,
-        descripcion = "Llavero de resina con mini suculenta encapsulada.",
+        descripcion = "Llavero de circular holografico de Gateway Transformes.",
         imagenRes = R.drawable.llavero_planta_suculenta
     ),
     ProductoMerch(
         id = 8,
-        nombre = "Pegatina Mapa Mundi",
-        tipo = "Pegatina",
+        nombre = "´Pines Diamante Sonic Bufón",
+        tipo = "Pines",
         precio = 2.30,
-        descripcion = "Pegatina grande de mapa mundi estilo acuarela.",
+        descripcion = "Pegatina grande diamante brillante.",
         imagenRes = R.drawable.pegatina_mapa_mundi
     )
 )
